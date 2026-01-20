@@ -28,3 +28,9 @@ Due to the lack of publicly available labeled wallet risk data, a synthetic data
 - Incorporate temporal and network-based features
 - Explore anomaly detection techniques such as Isolation Forest
 - Extend analysis using real blockchain transaction data
+
+- ## Visual Insights
+
+### Class Distribution
+![Class Imbalance](images/class_imbalance.png)
+
